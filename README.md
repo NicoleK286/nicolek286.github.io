@@ -3,24 +3,24 @@
 
 ## Highlights
 
-•	Data Scientist with over 11 years’ experience in research and analytics.
-•	Experience in pharma, healthcare business analytics, Natural language processing (NLP) and SBE (social, behavioral, and economic) domains.
-•	Detail oriented, adept at problem solving, finding innovative solutions, and leveraging existing infrastructures to improve efficiency. 
-•	Functionally managed and coordinated the activities of several teams over the last 5 years. 
-•	Background in analytics and visualization, data wrangling and management, machine learning, software testing and regulatory compliance. 
-•	Researcher with publications in the Data Science and Biopharmaceutical domains.
+- Data Scientist with over 11 years’ experience in research and analytics.
+- Experience in pharma, healthcare business analytics, Natural language processing (NLP) and SBE (social, behavioral, and economic) domains.
+- Detail oriented, adept at problem solving, finding innovative solutions, and leveraging existing infrastructures to improve efficiency. 
+- Functionally managed and coordinated the activities of several teams over the last 5 years. 
+- Background in analytics and visualization, data wrangling and management, machine learning, software testing and regulatory compliance. 
+- Researcher with publications in the Data Science and Biopharmaceutical domains.
 
 
 
 ## Skills
 
-**Language Skills:** Python, SQL, R, PySpark, SparkSQL, HTML, PHP, Javascript
-**Analytics:** Supervised & Unsupervised ML, Deep Learning, Natural Language Processing (NLP), Computer Vision, Large Language Models (LLM), Image Classification, Data Annotation, Convoluted Neural Networks (CNN)
-**Frameworks & Tools:** Sklearn, PyTorch, Tensorflow, Numpy, Pandas, NLTK, Tokenizers, Linux, Git
-**Visualization & Geospatial analysis:** Power BI, Tableau, Python & R, ArcGIS Pro, Hazus
-**Databases:** MySQL, SQL Server, Azure Data Studio, MongoDB
-**Web QA Testing:** Jira, Spira & SQL Scripts
-**Biostatistics:** PLA 3.0, Minitab, Base SAS, GraphPad PRISM, SoftMax Pro
+- **Language Skills:** Python, SQL, R, PySpark, SparkSQL, HTML, PHP, Javascript
+- **Analytics:** Supervised & Unsupervised ML, Deep Learning, Natural Language Processing (NLP), Computer Vision, Large Language Models (LLM), Image Classification, Data Annotation, Convoluted Neural Networks (CNN)
+- **Frameworks & Tools:** Sklearn, PyTorch, Tensorflow, Numpy, Pandas, NLTK, Tokenizers, Linux, Git
+- **Visualization & Geospatial analysis:** Power BI, Tableau, Python & R, ArcGIS Pro, Hazus
+- **Databases:** MySQL, SQL Server, Azure Data Studio, MongoDB
+- **Web QA Testing:** Jira, Spira & SQL Scripts
+- **Biostatistics:** PLA 3.0, Minitab, Base SAS, GraphPad PRISM, SoftMax Pro
 
 
 
