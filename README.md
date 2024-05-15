@@ -27,7 +27,7 @@
 
 ## Professional Experience
 
-**Data Science Intern @ The POLIS center, USA (_Sept 2023 - present_)**
+### **Data Science Intern @ The POLIS center, USA (_Sept 2023 - present_)**
 - **Projects:** State of Aging Report (SoAR), Nexus for Equity + Opportunity Nationwide (NEON), iHeart, NSF grant
 - In 8 months, have used a combination of Python, R, Power BI, ArcGIS and SQL for data analysis & visualization of complex geospatial **socio-economic trends in Central Indiana using cross-sectional data** from several government repositories including the    Bureau of Labor & Statistics (BLS) and American Community Survey (ACS) among others, for several projects. 
 - Collaborating with key stakeholders to restructure an **infrastructure NSF-HNDS grant**. Working on the pipeline design and leading the team that is compiling existing literature relevant using AI based annotation, for the project.
@@ -35,14 +35,14 @@
 - Was lead author on a **research brief** that highlights the disparities in gender equity and access to medical care observed in older adults in Central Indiana. 
 
 
-**Data Science Research Assistant/ Semantic Question Generation Using Deep Learning @ Indiana University, USA (_Sept 2022 - May 2024_)**
+### **Data Science Research Assistant/ Semantic Question Generation Using Deep Learning @ Indiana University, USA (_Sept 2022 - May 2024_)**
 - Optimized a rule-based **question generation algorithm** that uses **NLP techniques** and **deep learning** to **generate semantically logical questions from scientific datasets** whose answers can be found within the data.
 - In less than a year, **expanded the diversity of datasets** the pipeline could process, **reduced semantic datatype detection errors**, and **improved question quality** by implementing a multimodal language tool and transformer-based approach. Restructured the program to make the code easy to edit and understand.
 - Working on **making the program adaptable with database-based community information systems** with established semantic categorization systems.
 - Presented research at IBDAP 2023 conference & was nominated for best paper –N. R. Koshy et al., "Data-To-Question Generation Using Deep Learning," 4th International Conference on Big Data Analytics and Practices (IBDAP), Bangkok, Thailand, 2023, pp. 1-6, doi: 10.1109/IBDAP58581.2023.10271940.
 
 
-**Senior Data Analyst @ Anju Life Sciences, India (_April 2019 - May 2022_)**
+### **Senior Data Analyst @ Anju Life Sciences, India (_April 2019 - May 2022_)**
 - Set-up and **optimized the creation of new business sales insights for several EU countries**, which minimized client dependency, within 8 months of coming onboard.
 - **Reduced production QA time from 10 to 3 days** by setting up **automated testing scripts in SQL** for business insights. 
 - **Solved critical engineering implementation issues** to meet stringent deadlines.
@@ -56,7 +56,7 @@
 - **Promoted to Senior Data Analyst in less than a year.**
 
 
-**Senior Research Associate - E2 @ Lupin Biotech Ltd., India (_Aug 2015 - Aug 2018_)**
+### **Senior Research Associate - E2 @ Lupin Biotech Ltd., India (_Aug 2015 - Aug 2018_)**
 - Used **Parallel Line Analysis to develop and assess Bioassay models** designed to test the biochemical & immunological mode of action and potency of several biosimilars.
 - Designed and **spearheaded the execution of validation protocols for 21 CFR regulatory compliance** of analytical software used for analytical analysis. 
 - Prepared CMC/CTD documents for **dossier submissions to regulatory agencies like FDA, EMA and PMDA.**
