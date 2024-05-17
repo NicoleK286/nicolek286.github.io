@@ -8,7 +8,7 @@
 - Detail oriented, adept at problem solving, finding innovative solutions, and leveraging existing infrastructures to improve efficiency. 
 - Functionally managed and coordinated the activities of several teams over the last 5 years. 
 - Background in analytics and visualization, data wrangling and management, machine learning, software testing and regulatory compliance. 
-- Researcher with publications in the Data Science and Biopharmaceutical domains.
+- Published in the Data Science and Biopharmaceutical domains.
 
 
 
@@ -31,15 +31,15 @@
 - **Projects:** State of Aging Report (SoAR), Nexus for Equity + Opportunity Nationwide (NEON), iHeart, NSF grant
 - In 8 months, have used a combination of Python, R, Power BI, ArcGIS and SQL for data analysis & visualization of complex geospatial **socio-economic trends in Central Indiana using cross-sectional data** from several government repositories including the    Bureau of Labor & Statistics (BLS) and American Community Survey (ACS) among others, for several projects. 
 - Collaborating with key stakeholders to restructure an **infrastructure NSF-HNDS grant**. Working on the pipeline design and leading the team that is compiling existing literature relevant using AI based annotation, for the project.
-- Managed meetings and coordinate the activities of the iHeart project team. Involved in statistical and geospatial indicator development, as well as QA testing of the website.
-- Was lead author on a **research brief** that highlights the disparities in gender equity and access to medical care observed in older adults in Central Indiana. 
+- Managed meetings and coordinated the activities of the iHeart project team. Involved in statistical and geospatial indicator development, as well as QA testing of the website.
+- Was lead author on a research brief that highlights the gender based disparities in socio-economic equity and wellbeing of older adults in Central Indiana - https://centralindiana.stateofaging.org/wp-content/uploads/2024/05/SOAR-Research-Brief-May-2024.pdf.
 
 
 ### **Data Science Research Assistant/ Semantic Question Generation Using Deep Learning @ Indiana University, USA (_Sept 2022 - May 2024_)**
 - Optimized a rule-based **question generation algorithm** that uses **NLP techniques** and **deep learning** to **generate semantically logical questions from scientific datasets** whose answers can be found within the data.
 - In less than a year, **expanded the diversity of datasets** the pipeline could process, **reduced semantic datatype detection errors**, and **improved question quality** by implementing a multimodal language tool and transformer-based approach. Restructured the program to make the code easy to edit and understand.
 - Working on **making the program adaptable with database-based community information systems** with established semantic categorization systems.
-- Presented research at IBDAP 2023 conference & was nominated for best paper –N. R. Koshy et al., "Data-To-Question Generation Using Deep Learning," 4th International Conference on Big Data Analytics and Practices (IBDAP), Bangkok, Thailand, 2023, pp. 1-6, doi: 10.1109/IBDAP58581.2023.10271940.
+- Presented research at IBDAP 2023 conference & was nominated for best paper.
 
 
 ### **Senior Data Analyst @ Anju Life Sciences, India (_April 2019 - May 2022_)**
