@@ -28,13 +28,6 @@
 
 ## Professional Experience
 
-### **Data Scientist @ The POLIS center, USA (_Sept 2023 - May 2024_)**
-- **Projects:** State of Aging Report (SoAR), Nexus for Equity + Opportunity Nationwide (NEON), iHeart, NSF grant
-- •	In 8 months, have used a combination of Python, R, Power BI, ArcGIS, and SQL for **data management, analysis & visualization** of complex geospatial socio-economic trends in Central Indiana using **cross-sectional data** from several government repositories including the Bureau of Labor & Statistics (BLS) and American Community Survey (ACS) among others, for several projects. 
-- Collaborating with key stakeholders to restructure an **infrastructure NSF-HNDS grant**. Working on the pipeline design and leading the team that is compiling existing literature relevant using AI based annotation, for the project.
-- Managed meetings and coordinated the activities of the iHeart project team. Involved in statistical and geospatial indicator development, as well as QA testing of the website.
-- Was lead author on a research brief that highlights the gender based disparities in socio-economic equity and wellbeing of older adults in Central Indiana - https://centralindiana.stateofaging.org/wp-content/uploads/2024/05/SOAR-Research-Brief-May-2024.pdf.
-
 
 ### **Data Science Researcher/ Semantic Question Generation Using Deep Learning @ Indiana University, USA (_Sept 2022 - May 2024_)**
 - Optimized a rule-based **question generation algorithm** that uses **NLP techniques** and **deep learning** to **generate semantically logical questions from scientific datasets** whose answers can be found within the data.
@@ -42,6 +35,14 @@
 - Worked on **making the program adaptable with database-based community information systems** with established semantic categorization systems.
 - Used spaCy for similarity assessment, Transformers and Language tool for language correction and a deep learning neural network for semantic categorization of the data.
 - •	Nominated for best paper at IBDAP 2023 conference – N. R. Koshy et al., "Data-To-Question Generation Using Deep Learning," 4th International Conference on Big Data Analytics and Practices (IBDAP), Bangkok, Thailand, 2023, pp. 1-6, doi: 10.1109/IBDAP58581.2023.10271940.
+
+
+### **Data Scientist @ The POLIS center, USA (_Sept 2023 - May 2024_)**
+- **Projects:** State of Aging Report (SoAR), Nexus for Equity + Opportunity Nationwide (NEON), iHeart, NSF grant
+- •	In 8 months, have used a combination of Python, R, Power BI, ArcGIS, and SQL for **data management, analysis & visualization** of complex geospatial socio-economic trends in Central Indiana using **cross-sectional data** from several government repositories including the Bureau of Labor & Statistics (BLS) and American Community Survey (ACS) among others, for several projects. 
+- Collaborating with key stakeholders to restructure an **infrastructure NSF-HNDS grant**. Working on the pipeline design and leading the team that is compiling existing literature relevant using AI based annotation, for the project.
+- Managed meetings and coordinated the activities of the iHeart project team. Involved in statistical and geospatial indicator development, as well as QA testing of the website.
+- Was lead author on a research brief that highlights the gender based disparities in socio-economic equity and wellbeing of older adults in Central Indiana - https://centralindiana.stateofaging.org/wp-content/uploads/2024/05/SOAR-Research-Brief-May-2024.pdf.
 
 
 ### **Senior Data Analyst @ Anju Life Sciences, India (_April 2019 - May 2022_)**
