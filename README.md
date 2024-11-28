@@ -1,10 +1,10 @@
-# DATA SCIENTIST | SME | RESEARCHER
+# DATA SCIENTIST | SUBJECT MATTER EXPERT | RESEARCHER
 
 
 ## Highlights
 
-- Data Scientist with over 11 years’ experience in research and analytics.
-- Experience in pharma, healthcare business analytics, Natural language processing (NLP) and SBE (social, behavioral, and economic) domains.
+- Data Scientist with several years’ experience in research and analytics.
+- Experience in pharma, healthcare business analytics, Natural language processing (NLP) and SBE (social, behavioral, and economic) domains. 
 - Detail oriented, adept at problem solving, finding innovative solutions, and leveraging existing infrastructures to improve efficiency. 
 - Functionally managed and coordinated the activities of several teams over the last 5 years. 
 - Background in analytics and visualization, data wrangling and management, machine learning, software testing and regulatory compliance. 
@@ -14,10 +14,11 @@
 
 ## Skills
 
-- **Language Skills:** Python, SQL, R, PySpark, SparkSQL, HTML, PHP, Javascript
-- **Analytics:** Supervised & Unsupervised ML, Deep Learning, Natural Language Processing (NLP), Computer Vision, Large Language Models (LLM), Image Classification, Data Annotation, Convoluted Neural Networks (CNN)
+- **Programming Languages:** Python, SQL, R, PySpark, SparkSQL, HTML, PHP, Javascript
+- **Natural Language Processing:** Transformers, NLTK, spaCy, Sherlock, Tokenizers, BERT, Language tool
+- **Analytics:** Supervised & Unsupervised ML, Deep Learning, Natural Language Processing (NLP), Computer Vision, Large Language Models (LLM), Image Classification, Data Annotation, Convoluted Neural Networks (CNN), Principal Component analysis (PCA), Bayesian Networks, Predictive modeling
 - **Frameworks & Tools:** Sklearn, PyTorch, Tensorflow, Numpy, Pandas, NLTK, Tokenizers, Linux, Git
-- **Visualization & Geospatial analysis:** Power BI, Tableau, Python & R, ArcGIS Pro, Hazus
+- **Visualization & Geospatial analysis:** Power BI, Tableau, Python & R, ArcGIS Pro, Hazus, Flourish
 - **Databases:** MySQL, SQL Server, Azure Data Studio, MongoDB
 - **Web QA Testing:** Jira, Spira & SQL Scripts
 - **Biostatistics:** PLA 3.0, Minitab, Base SAS, GraphPad PRISM, SoftMax Pro
@@ -27,19 +28,20 @@
 
 ## Professional Experience
 
-### **Data Science Intern @ The POLIS center, USA (_Sept 2023 - present_)**
+### **Data Scientist @ The POLIS center, USA (_Sept 2023 - May 2024_)**
 - **Projects:** State of Aging Report (SoAR), Nexus for Equity + Opportunity Nationwide (NEON), iHeart, NSF grant
-- In 8 months, have used a combination of Python, R, Power BI, ArcGIS and SQL for data analysis & visualization of complex geospatial **socio-economic trends in Central Indiana using cross-sectional data** from several government repositories including the    Bureau of Labor & Statistics (BLS) and American Community Survey (ACS) among others, for several projects. 
+- •	In 8 months, have used a combination of Python, R, Power BI, ArcGIS, and SQL for **data management, analysis & visualization** of complex geospatial socio-economic trends in Central Indiana using **cross-sectional data** from several government repositories including the Bureau of Labor & Statistics (BLS) and American Community Survey (ACS) among others, for several projects. 
 - Collaborating with key stakeholders to restructure an **infrastructure NSF-HNDS grant**. Working on the pipeline design and leading the team that is compiling existing literature relevant using AI based annotation, for the project.
 - Managed meetings and coordinated the activities of the iHeart project team. Involved in statistical and geospatial indicator development, as well as QA testing of the website.
 - Was lead author on a research brief that highlights the gender based disparities in socio-economic equity and wellbeing of older adults in Central Indiana - https://centralindiana.stateofaging.org/wp-content/uploads/2024/05/SOAR-Research-Brief-May-2024.pdf.
 
 
-### **Data Science Research Assistant/ Semantic Question Generation Using Deep Learning @ Indiana University, USA (_Sept 2022 - May 2024_)**
+### **Data Science Researcher/ Semantic Question Generation Using Deep Learning @ Indiana University, USA (_Sept 2022 - May 2024_)**
 - Optimized a rule-based **question generation algorithm** that uses **NLP techniques** and **deep learning** to **generate semantically logical questions from scientific datasets** whose answers can be found within the data.
 - In less than a year, **expanded the diversity of datasets** the pipeline could process, **reduced semantic datatype detection errors**, and **improved question quality** by implementing a multimodal language tool and transformer-based approach. Restructured the program to make the code easy to edit and understand.
-- Working on **making the program adaptable with database-based community information systems** with established semantic categorization systems.
-- Presented research at IBDAP 2023 conference & was nominated for best paper.
+- Worked on **making the program adaptable with database-based community information systems** with established semantic categorization systems.
+- Used spaCy for similarity assessment, Transformers and Language tool for language correction and a deep learning neural network for semantic categorization of the data.
+- •	Nominated for best paper at IBDAP 2023 conference – N. R. Koshy et al., "Data-To-Question Generation Using Deep Learning," 4th International Conference on Big Data Analytics and Practices (IBDAP), Bangkok, Thailand, 2023, pp. 1-6, doi: 10.1109/IBDAP58581.2023.10271940.
 
 
 ### **Senior Data Analyst @ Anju Life Sciences, India (_April 2019 - May 2022_)**
@@ -49,15 +51,16 @@
 - **Managed the activities of the implementation team** to facilitate timely data releases for several clients.
 - **Optimized & validated physician and hospital mapping in SQL** using data cleaning and wrangling techniques. 
 - **Developed dashboards** to demonstrate the feasibility of integrating Medicare insurance data into our current business insights model.
-- **Curated Clinical trials data** for optimization of Monte Carlo simulation algorithms for designing of future trials.
+- **Curated and managed Clinical trials data** for optimization of Monte Carlo simulation algorithms for designing of future trials.
 - Worked on **QA testing through several stages of software development** using Jira based task management, Spira QA scripting and SQL analytics.
 - **Translated client requirements into technical documents** from set-up to integration and implementation.
 - **Achievements:** Awarded the Star Performer award in Q1 2020 for consistent outstanding performance.                         
 - **Promoted to Senior Data Analyst in less than a year.**
 
 
-### **Senior Research Associate - E2 @ Lupin Biotech Ltd., India (_Aug 2015 - Aug 2018_)**
+### **Senior Research Associate @ Lupin Biotech Ltd., India (_Aug 2015 - Aug 2018_)**
 - Used **Parallel Line Analysis to develop and assess Bioassay models** designed to test the biochemical & immunological mode of action and potency of several biosimilars.
+- Managed organization of experimental data for processing in various analytical software.
 - Designed and **spearheaded the execution of validation protocols for 21 CFR regulatory compliance** of analytical software used for analytical analysis. 
 - Prepared CMC/CTD documents for **dossier submissions to regulatory agencies like FDA, EMA and PMDA.**
 - **Trained peers and managers** in the use of 21 CFR compliant software and data analysis.
@@ -84,6 +87,13 @@ Designed a web interface with a multivariate search using Javascript, PHP, HTML 
 - Used geospatial and statistical data analysis to study the access to care patterns among older adults using Medicare certified facilities across the continental US. 
 - Employed clustering, and principal component analysis to determine which characteristics of services offered and patient demographics could be used to aggregate skilled nursing and hospice facilities into distinct groups.
 
+### CLASSIFYING SPACE OBJECTS USING PREDICTIVE MODELING
+
+- Tested machine learning models including Random Forest and XG Boost to classify space objects into debris or payload using publicly available Two-Line element (TLE) data to determine which could achieve the highest accuracy (above 96%) in the shortest amount of time, with the fewest number of features.
+
+### SLEEP STAGE ANALYSIS USING BAYESIAN NETWORKS
+
+- Used Bayesian network analysis to determine how sleep features influence sleep stage transitions (waking, REM stages) using sleep EEG patient data and analyze their relationship to each other and sleep stage prediction.
 
 ## Education
 - M.S., Applied Data Science	| Indiana University Purdue University Indianapolis (IUPUI), USA (_May 2024_)
