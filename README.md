@@ -96,10 +96,10 @@ Designed a web interface with a multivariate search using Javascript, PHP, HTML 
 - Used Bayesian network analysis to determine how sleep features influence sleep stage transitions (waking, REM stages) using sleep EEG patient data and analyze their relationship to each other and sleep stage prediction.
 
 ## Education
-- M.S., Applied Data Science	| Indiana University Purdue University Indianapolis (IUPUI), USA (_May 2024_)
-- M.S., Biotechnology	| Indiana University of Houston - Clear Lake (UHCL), USA (_May 2010_)
-- M.Sc., Bioinformatics	| CMS College of Science and Commerce - Bharathiar University, India (_May 2008_)
-- B.Sc., Biotechnology	| Bhavan's College, Mumbai University, India (_May 2006_)
+- M.S. Applied Data Science	| Indiana University Purdue University Indianapolis (IUPUI), USA (_May 2024_)
+- M.S. Biotechnology	| Indiana University of Houston - Clear Lake (UHCL), USA (_May 2010_)
+- M.Sc. Bioinformatics	| CMS College of Science and Commerce - Bharathiar University, India (_May 2008_)
+- B.Sc. Biotechnology	| Bhavan's College, Mumbai University, India (_May 2006_)
 
 
 ## Publications
